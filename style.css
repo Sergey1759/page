@@ -1,0 +1,50 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #626091;
+    font-family: cursive;
+    
+}
+p {
+    padding: 20px;
+    color: azure;
+    background: #4a495f;
+    text-align: center;
+     
+    border: 3px solid #ffffff;
+}
+.inputbox {
+    display: block;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: azure;
+   
+}
+input {
+    width: 40%;
+    
+}
+button {
+    width: 15%;
+    padding: 6px;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#button-1 {
+     background: #16d458;
+}
+#button-2 {
+    background: #f24242;
+}
+
+#button-1:hover {
+     background: #91fcb5;
+}
+#button-2:hover {
+    background: #fcc1c1;
+}
